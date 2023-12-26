@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+import TwoSum.TwoSum;
+
 /**
  * MainClass
  */
