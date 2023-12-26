@@ -39,8 +39,9 @@
         Input: s = "MCMXCIV"
 
         Output: 1994
-        
+
         Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 - Solution:
+
     Using a HashMap to store the Roman Numerals and their Integer values as Key-Value Pairs. Number is calculated by adding value of each roman numeral and subtracting if the preceeding numeral is smaller than the current.
