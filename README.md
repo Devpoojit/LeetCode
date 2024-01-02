@@ -14,3 +14,4 @@
 11. [Length of Last Word](/LengthOfLastWord/README.md)
 12. [Plus One](/PlusOne/README.md)
 13. [Add Binary](/AddBinary/README.md)
+14. [Sqrt(x)](/Sqrt/README.md)
