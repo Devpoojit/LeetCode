@@ -10,3 +10,4 @@
 7.  [Remove Duplicates From Sorted Array](/RemoveDuplicates/README.md)
 8.  [Remove Elements](/RemoveElement/README.md)
 9.  [FirstOccIndex](/FirstOccIndex/README.md)
+10. [Search Insert Position](/SearchInsertPosition/README.md)
