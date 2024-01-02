@@ -8,3 +8,5 @@
 5.  [Valid Paranthesis](/ValidPar/README.md)
 6.  [Merge Two Sorted List](/MergeTwoSortedLists/README.md)
 7.  [Remove Duplicates From Sorted Array](/RemoveDuplicates/README.md)
+8.  [Remove Elements](/RemoveElement/README.md)
+9.  [FirstOccIndex](/FirstOccIndex/README.md)
