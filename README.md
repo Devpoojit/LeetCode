@@ -12,3 +12,4 @@
 9.  [FirstOccIndex](/FirstOccIndex/README.md)
 10. [Search Insert Position](/SearchInsertPosition/README.md)
 11. [Length of Last Word](/LengthOfLastWord/README.md)
+12. [Plus One](/PlusOne/README.md)
