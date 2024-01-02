@@ -15,3 +15,5 @@
 12. [Plus One](/PlusOne/README.md)
 13. [Add Binary](/AddBinary/README.md)
 14. [Sqrt(x)](/Sqrt/README.md)
+15. [Climbing Stairs](/ClimbingStairs/README.md)
+16. [Remove Duplicates from Sorted List](/RemoveDuplicatesList/README.md)
