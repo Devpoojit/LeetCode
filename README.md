@@ -17,3 +17,4 @@
 14. [Sqrt(x)](/Sqrt/README.md)
 15. [Climbing Stairs](/ClimbingStairs/README.md)
 16. [Remove Duplicates from Sorted List](/RemoveDuplicatesList/README.md)
+17. [Reverse Integer](/ReverseInteger/README.md)
